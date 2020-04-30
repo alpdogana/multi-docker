@@ -20,12 +20,7 @@
             "image": "040130102/multi-worker",
             "hostname": "worker",
             "essential": false,
-            "memory": 128,
-            "environment": [
-                {
-                    "REDIS_PORT": 6379
-                }
-            ]
+            "memory": 128
         },
         {
             "name": "nginx",
