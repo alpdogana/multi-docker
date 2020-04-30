@@ -23,7 +23,6 @@
             "memory": 128,
             "environment": [
                 {
-                    "REDIS_HOST": "multi-docker-redis.9gylmf.ng.0001.euw2.cache.amazonaws.com",
                     "REDIS_PORT": 6379
                 }
             ]
